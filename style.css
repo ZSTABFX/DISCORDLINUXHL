@@ -1,0 +1,25 @@
+body {
+    background: black;
+    color: #00ff00;
+    font-family: monospace;
+    text-align: center;
+}
+
+#terminal {
+    width: 90%;
+    margin: auto;
+    text-align: left;
+    height: 300px;
+    overflow-y: auto;
+    border: 1px solid #00ff00;
+    padding: 10px;
+}
+
+#input {
+    width: 100%;
+    padding: 10px;
+    background: black;
+    color: #00ff00;
+    border: none;
+    outline: none;
+}
